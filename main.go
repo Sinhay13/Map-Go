@@ -43,3 +43,9 @@ func printMap(c map[string]string) {
 // in map keys are indexed
 
 // map is a reference Type ! no need of pointer no copy of date but copy of reference
+
+// map is not thread safe
+
+// map is a good way to represent a collection of related properties
+
+// map is not iterable
